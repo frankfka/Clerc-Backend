@@ -56,7 +56,7 @@ SECURED endpoints require a valid JWT token (See Security Endpoints)
         "created": 1555545704,
         "expires": 1555549304,
         "livemode": false,
-        "secret": "ek_test_YWNjdF8xRUVpaE9McmxIRGRjZ1ozLE1UU2pNSlpwRXJHdmZoa0IybWVoTDVkUHZjQ1E3aWE_00RyjITY4p"
+        "secret": ""
     }
     ```
 
